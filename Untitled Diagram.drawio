@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T11:33:10.386Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="ZN3tyuEI80biJlAJG9yA" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T11:36:02.898Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="_XqCIBEI19pisscisJ96" version="14.5.8" type="github">
   <diagram id="SXEYLcMqSf7-T7kPatKO" name="Page-1">
     <mxGraphModel dx="981" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,27 @@
         </mxCell>
         <mxCell id="fBSgZwWfRKQs4gMfS5-9-9" value="1、减去商品库存&lt;br&gt;2、减去库位库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fBSgZwWfRKQs4gMfS5-9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBSgZwWfRKQs4gMfS5-9-11" target="fBSgZwWfRKQs4gMfS5-9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fBSgZwWfRKQs4gMfS5-9-11" value="入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fBSgZwWfRKQs4gMfS5-9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBSgZwWfRKQs4gMfS5-9-12" target="fBSgZwWfRKQs4gMfS5-9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fBSgZwWfRKQs4gMfS5-9-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBSgZwWfRKQs4gMfS5-9-12" target="fBSgZwWfRKQs4gMfS5-9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fBSgZwWfRKQs4gMfS5-9-12" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fBSgZwWfRKQs4gMfS5-9-14" value="库位1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fBSgZwWfRKQs4gMfS5-9-17" value="库位2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
